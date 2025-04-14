@@ -70,7 +70,7 @@ const Index = () => {
         }}
       >
         <div className="max-w-4xl mx-auto text-center">
-          <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-[#a78bfa] via-[#c084fc] to-[#60a5fa]">
+          <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-[#f4f0f5] via-[#c084fc] to-[#60a5fa]">
             Think Better. Move Faster. Create Smarter.
           </h1>
           <h2 className="text-xl sm:text-2xl md:text-3xl mb-4 text-[#c084fc]">
